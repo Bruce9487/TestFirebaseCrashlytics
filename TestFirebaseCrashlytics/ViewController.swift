@@ -15,6 +15,14 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
-
+    @IBAction func crashBtnClicked(_ sender: Any) {
+        
+        print("CRASHED")
+        
+        let array: [String] = ["1"]
+        let str = array[2]
+        print(str)
+    }
+    
 }
 

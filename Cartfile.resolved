@@ -1,0 +1,6 @@
+binary "https://dl.google.com/dl/firebase/ios/carthage/FirebaseAnalyticsBinary.json" "6.27.0"
+binary "https://dl.google.com/dl/firebase/ios/carthage/FirebaseCrashlyticsBinary.json" "6.27.0"
+binary "https://dl.google.com/dl/firebase/ios/carthage/FirebaseMessagingBinary.json" "6.27.0"
+binary "https://dl.google.com/dl/firebase/ios/carthage/FirebasePerformanceBinary.json" "6.27.0"
+binary "https://dl.google.com/dl/firebase/ios/carthage/FirebaseProtobufBinary.json" "6.27.0"
+github "google/promises" "1.2.9"

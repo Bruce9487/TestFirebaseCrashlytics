@@ -1,0 +1,34 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "6.27.0",
+  "iOS" : [
+    {
+      "name" : "GoogleToolboxForMac",
+      "hash" : "3f476eaaa9230d87c86f40d645ce6ed217ac1b13fb5ac4736213c931ed738b59"
+    },
+    {
+      "name" : "FirebaseABTesting",
+      "hash" : "c1af2b35a336d2c5b657ae7b4d964a87eea3e9dbaa5ff4579c9e822069f2a391"
+    },
+    {
+      "name" : "FirebaseRemoteConfig",
+      "hash" : "17402914789914a8d4f637278172ff56171d6ea8cd97660580baa60bb39fb570"
+    },
+    {
+      "name" : "GTMSessionFetcher",
+      "hash" : "aa6d6e945894587abd228c99af92ff17e2110073d061aeecab027d8cc8da01e1"
+    },
+    {
+      "name" : "FirebasePerformance",
+      "hash" : "84de23a69171170571bcb73be862c07236ddaf9e215e8b65b839149d2b80d5a1"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "6.27.0",
+  "iOS" : [
+    {
+      "name" : "Protobuf",
+      "hash" : "dcb98dbfab2a26f90f7b65d07b1c4ee2b0596eabaf22ecc8f9614a2362012abd"
+    }
+  ]
+}

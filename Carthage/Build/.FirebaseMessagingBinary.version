@@ -1,0 +1,22 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "6.27.0",
+  "iOS" : [
+    {
+      "name" : "FirebaseInstanceID",
+      "hash" : "28ce72d77f65853a7e59f1d29243bdc22f7ff4e5582211a674c75acf0ce9e48f"
+    },
+    {
+      "name" : "FirebaseMessaging",
+      "hash" : "403a40077a290c67a80497599fbf9031b8487914a70ee4cbe715650dbb68608d"
+    }
+  ]
+}

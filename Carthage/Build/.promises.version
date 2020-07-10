@@ -1,0 +1,47 @@
+{
+  "Mac" : [
+    {
+      "name" : "Promises",
+      "hash" : "d5501415470c4604fdd3a5bf458c566a0388258c88b07fc721ef495c43334925",
+      "swiftToolchainVersion" : "5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
+    },
+    {
+      "name" : "FBLPromises",
+      "hash" : "029beb996f146e2f5e709f41fc0ea0295f6681a1d1ccc36b6e7b069fa53a913b"
+    }
+  ],
+  "watchOS" : [
+    {
+      "name" : "FBLPromises",
+      "hash" : "52e650b2ac8b81d5ec1f8d9a752e3b21cae8f923a241a266a929741cd3d135d6"
+    },
+    {
+      "name" : "Promises",
+      "hash" : "7744fd272000bdd8a890b26d2c23bbddfe25efbb86aa42242b4f26930d93d13c",
+      "swiftToolchainVersion" : "5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
+    }
+  ],
+  "tvOS" : [
+    {
+      "name" : "Promises",
+      "hash" : "30bf69f4bfdbf4bd7c09494fd9d7c12c3f903ecdd6dc0521834ea4f0294826fa",
+      "swiftToolchainVersion" : "5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
+    },
+    {
+      "name" : "FBLPromises",
+      "hash" : "df11ddfc4ad832913a944e4c25f0c45f30c9572f16a413af7769e1b7df571e2a"
+    }
+  ],
+  "commitish" : "1.2.9",
+  "iOS" : [
+    {
+      "name" : "Promises",
+      "hash" : "d9c83a2041b15eef08f5b0aa625042b24ad8ecc2e8a93a3d27de4e4285fe7bab",
+      "swiftToolchainVersion" : "5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
+    },
+    {
+      "name" : "FBLPromises",
+      "hash" : "257c68ebb20404fca64ccace3fa621172e30f7a8bb64f1b82d84eea924d7dab9"
+    }
+  ]
+}

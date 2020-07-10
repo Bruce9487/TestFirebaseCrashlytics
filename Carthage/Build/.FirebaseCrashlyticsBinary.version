@@ -1,0 +1,18 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "6.27.0",
+  "iOS" : [
+    {
+      "name" : "FirebaseCrashlytics",
+      "hash" : "96750f706d06edd1d6f8ad0d6b9d226db342cc2ce67579d3b1dd5ba7560ba9e0"
+    }
+  ]
+}
